@@ -1,4 +1,4 @@
-# emotion_prediction
+# Emotion_prediction
 
 # Project overview
 This project focuses on predicting human emotions using facial landmark detection with the shape_predictor_68_face_landmarks.dat model. The system analyzes facial expressions and classifies them into different emotional states.
